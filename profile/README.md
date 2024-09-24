@@ -13,6 +13,14 @@
 ![image](https://github.com/user-attachments/assets/f96a58f3-3d34-4a6d-b718-90987ceb0e7a)
 
 
+## 역할
+![image](https://github.com/user-attachments/assets/a0b55bca-bd25-4b53-8648-220681916dd7)
+
+
+
+
+
+
 
 ## 개발환경
 ![image](https://github.com/user-attachments/assets/350b3183-a03f-42cf-8474-9ce8ca365d34)
